@@ -22,3 +22,15 @@ Image based 3d object detection paper list
 ## CVPR 2020
 * [Learning Depth-Guided Convolutions for Monocular 3D Object Detection](https://openaccess.thecvf.com/content_CVPR_2020/html/Ding_Learning_Depth-Guided_Convolutions_for_Monocular_3D_Object_Detection_CVPR_2020_paper.html) - [code](https://github.com/dingmyu/D4LCN)
 * [MonoPair: Monocular 3D Object Detection Using Pairwise Spatial Relationships](https://openaccess.thecvf.com/content_CVPR_2020/html/Chen_MonoPair_Monocular_3D_Object_Detection_Using_Pairwise_Spatial_Relationships_CVPR_2020_paper.html)
+
+## AAAI 2020
+* [Task-Aware Monocular Depth Estimation for 3D Object Detection](https://arxiv.org/abs/1909.07701) - [code](https://github.com/WXinlong/ForeSeE)
+
+## ICCV 2019
+* [Disentangling Monocular 3D Object Detection](https://openaccess.thecvf.com/content_ICCV_2019/html/Simonelli_Disentangling_Monocular_3D_Object_Detection_ICCV_2019_paper.html)
+* [Accurate Monocular 3D Object Detection via Color-Embedded 3D Reconstruction for Autonomous Driving](https://openaccess.thecvf.com/content_ICCV_2019/html/Ma_Accurate_Monocular_3D_Object_Detection_via_Color-Embedded_3D_Reconstruction_for_ICCV_2019_paper.html)
+
+## CVPR 2019
+* [Deep Fitting Degree Scoring Network for Monocular 3D Object Detection](https://openaccess.thecvf.com/content_CVPR_2019/html/Liu_Deep_Fitting_Degree_Scoring_Network_for_Monocular_3D_Object_Detection_CVPR_2019_paper.html)
+* [Triangulation Learning Network: From Monocular to Stereo 3D Object Detection](https://openaccess.thecvf.com/content_CVPR_2019/html/Qin_Triangulation_Learning_Network_From_Monocular_to_Stereo_3D_Object_Detection_CVPR_2019_paper.html) - [code](https://github.com/Zengyi-Qin/TLNet)
+* [Monocular 3D Object Detection Leveraging Accurate Proposals and Shape Reconstruction](https://openaccess.thecvf.com/content_CVPR_2019/html/Ku_Monocular_3D_Object_Detection_Leveraging_Accurate_Proposals_and_Shape_Reconstruction_CVPR_2019_paper.html) - [code](https://github.com/kujason/monopsr)
