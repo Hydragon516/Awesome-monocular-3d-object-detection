@@ -1,4 +1,4 @@
-# Awesome-image-3d-object-detection
+# Awesome-monocular-3d-object-detection
 Image based 3d object detection paper list
 
 ## CVPR 2021
