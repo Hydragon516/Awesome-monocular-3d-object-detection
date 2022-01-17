@@ -1,6 +1,12 @@
 # Awesome-monocular-3d-object-detection
 Image based 3d object detection paper list
 
+## WACV 2022
+* [ImVoxelNet: Image to Voxels Projection for Monocular and Multi-View General-Purpose 3D Object Detection](https://openaccess.thecvf.com/content/WACV2022/html/Rukhovich_ImVoxelNet_Image_to_Voxels_Projection_for_Monocular_and_Multi-View_General-Purpose_WACV_2022_paper.html) - [code](https://github.com/saic-vul/imvoxelnet)
+
+## NIPS 2021
+* [Progressive Coordinate Transforms for Monocular 3D Object Detection](https://papers.nips.cc/paper/2021/file/6f3ef77ac0e3619e98159e9b6febf557-Paper.pdf) - [code](https://github.com/amazon-research/progressive-coordinate-transforms)
+
 ## ICCV 2021
 * [Geometry Uncertainty Projection Network for Monocular 3D Object Detection](https://openaccess.thecvf.com/content/ICCV2021/html/Lu_Geometry_Uncertainty_Projection_Network_for_Monocular_3D_Object_Detection_ICCV_2021_paper.html) - [code](https://github.com/SuperMHP/GUPNet)
 * [The Devil Is in the Task: Exploiting Reciprocal Appearance-Localization Features for Monocular 3D Object Detection](https://openaccess.thecvf.com/content/ICCV2021/html/Zou_The_Devil_Is_in_the_Task_Exploiting_Reciprocal_Appearance-Localization_Features_ICCV_2021_paper.html)
