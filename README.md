@@ -1,6 +1,15 @@
 # Awesome-monocular-3d-object-detection
 Image based 3d object detection paper list
 
+## ICCV 2021
+* [Geometry Uncertainty Projection Network for Monocular 3D Object Detection](https://openaccess.thecvf.com/content/ICCV2021/html/Lu_Geometry_Uncertainty_Projection_Network_for_Monocular_3D_Object_Detection_ICCV_2021_paper.html) - [code](https://github.com/SuperMHP/GUPNet)
+* [The Devil Is in the Task: Exploiting Reciprocal Appearance-Localization Features for Monocular 3D Object Detection](https://openaccess.thecvf.com/content/ICCV2021/html/Zou_The_Devil_Is_in_the_Task_Exploiting_Reciprocal_Appearance-Localization_Features_ICCV_2021_paper.html)
+* [Gated3D: Monocular 3D Object Detection From Temporal Illumination Cues](https://openaccess.thecvf.com/content/ICCV2021/html/Julca-Aguilar_Gated3D_Monocular_3D_Object_Detection_From_Temporal_Illumination_Cues_ICCV_2021_paper.html)
+* [Are we Missing Confidence in Pseudo-LiDAR Methods for Monocular 3D Object Detection?](https://openaccess.thecvf.com/content/ICCV2021/html/Simonelli_Are_We_Missing_Confidence_in_Pseudo-LiDAR_Methods_for_Monocular_3D_ICCV_2021_paper.html)
+* [AutoShape: Real-Time Shape-Aware Monocular 3D Object Detection](https://openaccess.thecvf.com/content/ICCV2021/html/Liu_AutoShape_Real-Time_Shape-Aware_Monocular_3D_Object_Detection_ICCV_2021_paper.html) - [code](https://github.com/zongdai/AutoShape)
+* [Is Pseudo-Lidar Needed for Monocular 3D Object Detection?](https://openaccess.thecvf.com/content/ICCV2021/html/Park_Is_Pseudo-Lidar_Needed_for_Monocular_3D_Object_Detection_ICCV_2021_paper.html) - [code](https://github.com/TRI-ML/dd3d)
+* [Geometry-Based Distance Decomposition for Monocular 3D Object Detection](https://openaccess.thecvf.com/content/ICCV2021/html/Shi_Geometry-Based_Distance_Decomposition_for_Monocular_3D_Object_Detection_ICCV_2021_paper.html) - [code](https://github.com/Rock-100/MonoDet)
+
 ## CVPR 2021
 * [Categorical Depth Distribution Network for Monocular 3D Object Detection](https://arxiv.org/abs/2103.01100) - [code](https://github.com/TRAILab/CaDDN)
 * [Depth-conditioned Dynamic Message Propagation for Monocular 3D Object Detection](https://arxiv.org/abs/2103.16470) - [code](https://github.com/fudan-zvg/DDMP)
