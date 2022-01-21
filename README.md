@@ -4,8 +4,14 @@
 
 Image based 3d object detection paper list
 
+## AAAI 2022
+* [Learning Auxiliary Monocular Contexts Helps Monocular 3D Object Detection](https://arxiv.org/pdf/2112.04628.pdf)
+
 ## WACV 2022
 * [ImVoxelNet: Image to Voxels Projection for Monocular and Multi-View General-Purpose 3D Object Detection](https://openaccess.thecvf.com/content/WACV2022/html/Rukhovich_ImVoxelNet_Image_to_Voxels_Projection_for_Monocular_and_Multi-View_General-Purpose_WACV_2022_paper.html) - [code](https://github.com/saic-vul/imvoxelnet)
+
+## ACMMM2021
+* [Neighbor-Vote: Improving Monocular 3D Object Detection through Neighbor Distance Voting](https://arxiv.org/pdf/2107.02493.pdf)
 
 ## NIPS 2021
 * [Progressive Coordinate Transforms for Monocular 3D Object Detection](https://papers.nips.cc/paper/2021/file/6f3ef77ac0e3619e98159e9b6febf557-Paper.pdf) - [code](https://github.com/amazon-research/progressive-coordinate-transforms)
@@ -41,8 +47,19 @@ Image based 3d object detection paper list
 * [Learning Depth-Guided Convolutions for Monocular 3D Object Detection](https://openaccess.thecvf.com/content_CVPR_2020/html/Ding_Learning_Depth-Guided_Convolutions_for_Monocular_3D_Object_Detection_CVPR_2020_paper.html) - [code](https://github.com/dingmyu/D4LCN)
 * [MonoPair: Monocular 3D Object Detection Using Pairwise Spatial Relationships](https://openaccess.thecvf.com/content_CVPR_2020/html/Chen_MonoPair_Monocular_3D_Object_Detection_Using_Pairwise_Spatial_Relationships_CVPR_2020_paper.html)
 
+## CVPRW 2020
+* [SMOKE: Single-Stage Monocular 3D Object Detection via Keypoint Estimation](https://arxiv.org/pdf/2002.10111.pdf) - [code](https://github.com/lzccccc/SMOKE)
+* [Learning Depth-Guided Convolutions for Monocular 3D Object Detection](https://arxiv.org/pdf/1912.04799.pdf) - [code](https://github.com/dingmyu/D4LCN)
+
+## IROS 2020
+* [Object-Aware Centroid Voting for Monocular 3D Object Detection](https://arxiv.org/pdf/2007.09836.pdf)
+
+## ICLR 2020
+* [Pseudo-LiDAR++: Accurate Depth for 3D Object Detection in Autonomous Driving](https://arxiv.org/pdf/1906.06310.pdf) - [code](https://github.com/mileyan/Pseudo_Lidar_V2)
+
 ## AAAI 2020
 * [Task-Aware Monocular Depth Estimation for 3D Object Detection](https://arxiv.org/abs/1909.07701) - [code](https://github.com/WXinlong/ForeSeE)
+* [Monocular 3D Object Detection with Decoupled Structured Polygon Estimation and Height-Guided Depth Estimation](https://arxiv.org/pdf/2002.01619.pdf)
 
 ## ICCV 2019
 * [Disentangling Monocular 3D Object Detection](https://openaccess.thecvf.com/content_ICCV_2019/html/Simonelli_Disentangling_Monocular_3D_Object_Detection_ICCV_2019_paper.html)
