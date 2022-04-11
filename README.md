@@ -4,6 +4,9 @@
 
 Image based 3d object detection paper list
 
+## CVPR 2022
+* [MonoDTR: Monocular 3D Object Detection with Depth-Aware Transformer](https://arxiv.org/abs/2203.10981) - [code](https://github.com/kuanchihhuang/MonoDTR)
+
 ## AAAI 2022
 * [Learning Auxiliary Monocular Contexts Helps Monocular 3D Object Detection](https://arxiv.org/pdf/2112.04628.pdf)
 
