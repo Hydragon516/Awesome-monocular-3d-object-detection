@@ -6,6 +6,11 @@ Image based 3d object detection paper list
 
 ## CVPR 2022
 * [MonoDTR: Monocular 3D Object Detection with Depth-Aware Transformer](https://arxiv.org/abs/2203.10981) - [code](https://github.com/kuanchihhuang/MonoDTR)
+* [Pseudo-Stereo for Monocular 3D Object Detection in Autonomous Driving](https://arxiv.org/abs/2203.02112) - [code](https://github.com/revisitq/Pseudo-Stereo-3D)
+* [Rope3D: TheRoadside Perception Dataset for Autonomous Driving and Monocular 3D Object Detection Task](https://arxiv.org/abs/2203.13608)
+* [MonoDETR: Depth-guided Transformer for Monocular 3D Object Detection](https://arxiv.org/abs/2203.13310) - [code](https://github.com/ZrrSkywalker/MonoDETR)
+* [Homography Loss for Monocular 3D Object Detection](https://arxiv.org/abs/2204.00754)
+* [Diversity Matters: Fully Exploiting Depth Clues for Reliable Monocular 3D Object Detection](https://arxiv.org/abs/2205.09373)
 
 ## AAAI 2022
 * [Learning Auxiliary Monocular Contexts Helps Monocular 3D Object Detection](https://arxiv.org/pdf/2112.04628.pdf)
