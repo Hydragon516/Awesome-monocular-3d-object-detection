@@ -7,6 +7,8 @@ Image based 3d object detection paper list
 ## ECCV 2022
 * [DID-M3D: Decoupling Instance Depth for Monocular 3D Object Detection](https://arxiv.org/abs/2207.08531) - [code](https://github.com/SPengLiang/DID-M3D)
 * [Densely Constrained Depth Estimator for Monocular 3D Object Detection](https://arxiv.org/abs/2207.10047) - [code](https://github.com/BraveGroup/DCD)
+* [Monocular 3D Object Detection with Depth from Motion](https://arxiv.org/abs/2207.12988) - [code](https://github.com/Tai-Wang/Depth-from-Motion)
+* [DEVIANT: Depth EquiVarIAnt NeTwork for Monocular 3D Object Detection](https://arxiv.org/abs/2207.10758) - [code](https://github.com/abhi1kumar/DEVIANT)
 
 ## CVPR 2022
 * [MonoDTR: Monocular 3D Object Detection with Depth-Aware Transformer](https://arxiv.org/abs/2203.10981) - [code](https://github.com/kuanchihhuang/MonoDTR)
