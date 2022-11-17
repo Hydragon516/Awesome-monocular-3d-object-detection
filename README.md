@@ -4,6 +4,9 @@
 
 Image based 3d object detection paper list
 
+## NIPS 2022
+* [MoGDE: Boosting Mobile Monocular 3D Object Detection with Ground Depth Estimation](https://openreview.net/pdf?id=J3s8i8OfZZX)
+
 ## ECCV 2022
 * [DID-M3D: Decoupling Instance Depth for Monocular 3D Object Detection](https://arxiv.org/abs/2207.08531) - [code](https://github.com/SPengLiang/DID-M3D)
 * [Densely Constrained Depth Estimator for Monocular 3D Object Detection](https://arxiv.org/abs/2207.10047) - [code](https://github.com/BraveGroup/DCD)
