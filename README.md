@@ -4,6 +4,10 @@
 
 Image based 3d object detection paper list
 
+## WACV 2023
+* [Multivariate Probabilistic Monocular 3D Object Detection](https://openaccess.thecvf.com/content/WACV2023/papers/Shi_Multivariate_Probabilistic_Monocular_3D_Object_Detection_WACV_2023_paper.pdf) - [code](https://github.com/Rock-100/MonoDet)
+* [MonoEdge: Monocular 3D Object Detection Using Local Perspectives](https://openaccess.thecvf.com/content/WACV2023/papers/Zhu_MonoEdge_Monocular_3D_Object_Detection_Using_Local_Perspectives_WACV_2023_paper.pdf)
+
 ## NIPS 2022
 * [MoGDE: Boosting Mobile Monocular 3D Object Detection with Ground Depth Estimation](https://openreview.net/pdf?id=J3s8i8OfZZX)
 
