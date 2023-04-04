@@ -3,6 +3,12 @@
 <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome"></a>
 
 Image based 3d object detection paper list
+## CVPR 2023
+* [MonoATT: Online Monocular 3D Object Detection with Adaptive Token Transformer](https://arxiv.org/pdf/2303.13018)
+* [Weakly Supervised Monocular 3D Object Detection using Multi-View Projection and Direction Consistency](https://arxiv.org/pdf/2303.08686.pdf)
+
+## AAAI 2023
+* [Attention-based Depth Distillation with 3D-Aware Positional Encoding for Monocular 3D Object Detection](https://arxiv.org/pdf/2211.16779.pdf)
 
 ## WACV 2023
 * [Multivariate Probabilistic Monocular 3D Object Detection](https://openaccess.thecvf.com/content/WACV2023/papers/Shi_Multivariate_Probabilistic_Monocular_3D_Object_Detection_WACV_2023_paper.pdf) - [code](https://github.com/Rock-100/MonoDet)
